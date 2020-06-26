@@ -1,5 +1,5 @@
 # make_sprocket
-A Fusion 360 Python file to creat 8mm film sprockets
+A Fusion 360 Python file to create 8mm film sprockets
 
 From main menu:
 Tools/Add-Ins/Scripts and Add-ins/Create. 
