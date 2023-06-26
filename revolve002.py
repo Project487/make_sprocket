@@ -62,7 +62,6 @@ def rotate(x, y, theta):
     yt = x * math.sin(theta) + y * math.cos(theta)
     return xt, yt
 
-arcTerm = math.asin(tw/(2*r)) *180 / math.pi
 
 hub = drawHub()
 
