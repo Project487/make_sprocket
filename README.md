@@ -8,3 +8,5 @@ VSCode should appear and allow the script to be pasted, saved and run.
 Change values in code to suit your purpose. n = number of teeth on sprocket.
 Currently populated with dimensions of Standard 8mm film.
 There are no checks for these values; obviously a 1 tooth sprocket won't work etc.
+
+I have also created and uploaded a 'cadquery' version. 
